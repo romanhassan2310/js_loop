@@ -9,7 +9,7 @@ console.log('something new is cooking');
 
 let num = 0;
 while (num < 5){
-    console.log('looooping', num);
+    console.log('looping', num);
     // num = num + 1;
     // num+=1;
     num++;
